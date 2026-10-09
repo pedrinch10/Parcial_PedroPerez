@@ -51,17 +51,17 @@ d) Para entrenar con más datos.
 
 Empareja cada término con su definición: Experimento / Run.
 
-a) Una ejecución concreta con su configuración y sus resultados.
+a) Una ejecución concreta con su configuración y sus resultados. run 
 
-b) Un grupo de runs comparables entre sí.
+b) Un grupo de runs comparables entre sí. expermiento
 
 ### A5. Parámetros, métricas y artefactos - emparejar (0,5 puntos)
 
 Empareja cada elemento con su tipo:
 
-- `max_depth=4`
-- `F1_validación=0.82`
-- `matriz_confusion.png`
+- `max_depth=4` parametro
+- `F1_validación=0.82` metrica
+- `matriz_confusion.png` artefacto
 
 Tipos: parámetro / métrica / artefacto.
 
