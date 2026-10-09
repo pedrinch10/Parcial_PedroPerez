@@ -1,6 +1,7 @@
 """Pruebas de los requisitos B2-B6. Ejecutar desde la raíz: uv run pytest."""
 import csv
 from pathlib import Path
+import pandas as pd
 
 import joblib
 import numpy as np
